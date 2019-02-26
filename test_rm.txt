@@ -1,0 +1,1 @@
+test rm file from disk but do not commit, see if we can get it back.
