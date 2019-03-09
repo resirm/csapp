@@ -2,6 +2,21 @@
 #include <limits.h>
 #include <stdint.h>
 
+/*
+ * For printf.
+ * %d--> for int
+ * 
+ * %u--> for unsigned int
+ * 
+ * %ld--> for long int
+ * 
+ * %lu--> for unsigned long int
+ * 
+ * %lld--> for long long int
+ * 
+ * %llu--> for unsigned long long int
+ */
+
 typedef unsigned char *byte_pointer;
 
 void show_bytes(byte_pointer start, int len){
