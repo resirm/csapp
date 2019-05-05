@@ -4,3 +4,6 @@
 *.ii
 *.s
 *.py[cod]
+
+# OS X
+.DS_Store
